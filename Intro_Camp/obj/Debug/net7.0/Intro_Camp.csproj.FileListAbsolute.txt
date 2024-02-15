@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\Intro_Camp\Intro_Camp\bin\Debug\net7.0\Intro_Camp.exe
+C:\Users\musta\source\repos\Intro_Camp\Intro_Camp\bin\Debug\net7.0\Intro_Camp.deps.json
+C:\Users\musta\source\repos\Intro_Camp\Intro_Camp\bin\Debug\net7.0\Intro_Camp.runtimeconfig.json
+C:\Users\musta\source\repos\Intro_Camp\Intro_Camp\bin\Debug\net7.0\Intro_Camp.dll
+C:\Users\musta\source\repos\Intro_Camp\Intro_Camp\bin\Debug\net7.0\Intro_Camp.pdb
+C:\Users\musta\source\repos\Intro_Camp\Intro_Camp\obj\Debug\net7.0\Intro_Camp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\Intro_Camp\Intro_Camp\obj\Debug\net7.0\Intro_Camp.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\Intro_Camp\Intro_Camp\obj\Debug\net7.0\Intro_Camp.AssemblyInfo.cs
+C:\Users\musta\source\repos\Intro_Camp\Intro_Camp\obj\Debug\net7.0\Intro_Camp.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\Intro_Camp\Intro_Camp\obj\Debug\net7.0\Intro_Camp.dll
+C:\Users\musta\source\repos\Intro_Camp\Intro_Camp\obj\Debug\net7.0\refint\Intro_Camp.dll
+C:\Users\musta\source\repos\Intro_Camp\Intro_Camp\obj\Debug\net7.0\Intro_Camp.pdb
+C:\Users\musta\source\repos\Intro_Camp\Intro_Camp\obj\Debug\net7.0\Intro_Camp.genruntimeconfig.cache
+C:\Users\musta\source\repos\Intro_Camp\Intro_Camp\obj\Debug\net7.0\ref\Intro_Camp.dll
+C:\Users\musta\source\repos\Intro_Camp\Intro_Camp\obj\Debug\net7.0\Intro_Camp.sourcelink.json
